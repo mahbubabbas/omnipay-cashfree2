@@ -1,5 +1,5 @@
 {
-    "name": "cashfree/omnipay-cashfree",
+    "name": "cashfree/omnipay-cashfree2",
     "type": "library",
     "version": "1.0.0",
     "description": "Cashfree driver for the Omnipay payment processing library",
@@ -11,20 +11,20 @@
         "payment",
         "cashfree"
     ],
-    "homepage": "https://github.com/cashfree/omnipay-cashfree",
+    "homepage": "https://github.com/mahbubabbas/omnipay-cashfree2",
     "license": "MIT",
     "authors": [
         {
-            "name": "Dev Cashfree",
-            "email": "developers@cashfree.com"
+            "name": "Mahbub Abbas",
+            "email": "mahbubabbas@gmail.copm"
         },
         {
-            "name": "Omnipay Contributors",
-            "homepage": "https://github.com/cashfree/omnipay-cashfree"
+            "name": "Mahbub Abbas",
+            "homepage": "https://github.com/mahbubabbas/omnipay-cashfree2"
         }
     ],
     "autoload": {
-        "psr-4": { "Omnipay\\Cashfree\\" : "src/" }
+        "psr-4": { "Omnipay\\Cashfree2\\" : "src/" }
     },
     "require": {
         "omnipay/common": "^3"
